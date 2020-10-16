@@ -2,6 +2,11 @@
 
 BasicOS is as the name suggests a very basic bare bones operating system. It is a real operating system and not just a bunch of x language if-else statements.
 
+# To Do:
+
+Add a programming language support.
+Add a text editor
+
 # Build & Run it yourself
 ```bash 
 bash main.sh
